@@ -1,0 +1,20 @@
+[
+  {
+    "id":"1",
+    "name":"Leo Shmuylovich",
+    "email":"leoshmu@gmail.com",
+    "college": "Cornell"
+  },
+  {
+    "id":"2",
+    "name":"Josh Salcman",
+    "email":"jsalcman@gmail.com",
+    "college": "Princeton"
+  },
+  {
+    "id":"3",
+    "name":"Jeff Scheur",
+    "email":"jscheur@gmail.com",
+    "college": "Oberlin"
+  }
+]
